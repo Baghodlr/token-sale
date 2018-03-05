@@ -2,7 +2,7 @@
   "name": "token-sale",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cmoody.github.io/token-sale",
+  "homepage": "https://baghodlr.github.io/token-sale/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "node-sass-chokidar": "^0.0.3",
